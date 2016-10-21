@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0919db9-c0c4-4299-8052-aa21a469dda9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/photo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/司机.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/警报.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/车辆.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/车辆详情.PNG" />
     </list>
     <ignored path="AAA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,6 +23,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="AAA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="photo1.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/image/photo1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -399,5 +412,12 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/image/photo1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
   </component>
 </project>
