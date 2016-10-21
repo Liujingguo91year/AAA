@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0919db9-c0c4-4299-8052-aa21a469dda9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/司机.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/警报.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/车辆.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/车辆详情.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/司机01.PNG" />
     </list>
     <ignored path="AAA.iws" />
     <ignored path=".idea/workspace.xml" />
